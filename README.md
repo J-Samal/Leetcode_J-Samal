@@ -1,7 +1,3 @@
-Sure, here's a sample README file for your Git repository focusing on Data Structures and Algorithms questions:
-
----
-
 # Leetcode Solutions Repository
 
 Welcome to the Data Structures and Algorithms Solutions Repository! This repository aims to provide comprehensive solutions to a diverse range of DSA (Data Structures and Algorithms) questions, catering to beginners and seasoned programmers alike. Whether you're preparing for coding interviews, honing your problem-solving skills, or simply seeking to deepen your understanding of DSA concepts, you'll find valuable resources here.
